@@ -7,3 +7,6 @@ What I found interesting about this article is how it shows **the practical impa
 ## Response by Prof
 
 I fixed a typo in the word, `practical` and made the link into a link!  Besides that, this was a short interesting read.  It didn't go into much detail and was obviously slantred towards promoting products and services from this particular vendor rather than providing much insight into how _exactly_ one derives business benefit from predictive analytics.  However, the topic has struck my interest and I will track it going forward.
+
+## Last Comment
+Thanks for the response!
